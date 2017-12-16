@@ -4,7 +4,6 @@ import IndexPage from './routes/IndexPage';
 import BasicLayout from './layout/BasicLayout';
 import Out from './layout/out';
 
-
 function RouterConfig({ history }) {
   return (
     <Router history={history}>
